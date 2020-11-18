@@ -19,13 +19,12 @@ This repository contains:
 -Power point presentation with all the instructions
 
 
-Figure 1 : The initial microscopy image and final model.
 
-![Fig.1](https://github.com/amandaventurac/Segmentation_Python_App/blob/master/real_and_model.png?raw=true)
+![Figure 1 : The initial microscopy image and final model.](https://github.com/amandaventurac/Segmentation_Python_App/blob/master/real_and_model.png?raw=true)
 
-Figure 2 : Example image of clicking process.
 
-![Fig.2](https://github.com/amandaventurac/Segmentation_Python_App/blob/master/clicking_process.png?raw=true)
+
+![Figure 2 : Example image of clicking process.](https://github.com/amandaventurac/Segmentation_Python_App/blob/master/clicking_process.png?raw=true)
 
 
 
