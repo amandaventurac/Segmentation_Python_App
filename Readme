@@ -1,0 +1,27 @@
+I built this app to construct a simple and correct geometry of microstructure Finite-element models.
+The Finite-element model that I use is supposed to read a file with EBSD microscopy information and construct a 2D microstructure model. 
+This information should be the initial and endpoints of segmentations (grain boundaries).
+This small app begins with a microscopy image and asks the user to click the initial and endpoints of grain boundaries. 
+These points are recorded, and the lines are constructed using the previously recorded point. 
+The real size of the microscopy map is an input and is used to set the correct model size. 
+After clicking these points, the result is a clean text file with simple geometry, that is rapidly read by the FEM software and allows producing the entire model.
+
+This repository contains:
+
+-Input microscopy image
+
+-Python script
+
+-Example image of clicking process
+
+-Out text file with segmentation information
+
+-Final model example 
+
+
+Figure 1 : The initial microscopy image.
+
+Figure 2 : Example image of clicking process.
+
+Figure 3 : Final model.
+
