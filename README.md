@@ -20,8 +20,8 @@ This repository contains:
 
 
 ![Fig1](https://github.com/amandaventurac/Segmentation_Python_App/blob/main/real_and_model.png?raw=true)
-
+Figure 1 : The initial microscopy image and final model.
 
 ![Fig2](https://github.com/amandaventurac/Segmentation_Python_App/blob/main/clicking_process.png?raw=true)
-
+Figure 2 : Example image of clicking process.
 
