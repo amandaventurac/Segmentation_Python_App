@@ -10,18 +10,24 @@ This repository contains:
 
 -Input microscopy image
 
--Python script
+-Python script (please press ESC to exit)
 
 -Example image of clicking process
 
 -Out text file with segmentation information
 
--Final model example 
+-Power point presentation with all the instructions
 
 
-Figure 1 : The initial microscopy image.
+
+
+
+Figure 1 : The initial microscopy image and final model.
+
+
+
 
 Figure 2 : Example image of clicking process.
 
-Figure 3 : Final model.
+
 
